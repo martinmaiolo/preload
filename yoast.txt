@@ -1,0 +1,8 @@
+<link rel="dns-prefetch" href="//www.googletagmanager.com">
+<link rel="preconnect" href="https://www.googletagmanager.com/" crossorigin>
+<link rel="preload" href="https://yoast.com/app/themes/yoast-theme/js/includes/jquery-3.5.1.min.js?ver=3.5.1" as="script">
+
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer>//<![CDATA[
+var gtm4wp_datalayer_name = "dataLayer";
+var dataLayer = dataLayer || [];//]]></script>
